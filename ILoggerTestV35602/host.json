@@ -1,0 +1,14 @@
+{
+    "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "ILoggerTestV35602" : "Information"
+    },
+    "applicationInsights": {
+      "samplingExcludedTypes": "Request",
+      "samplingSettings": {
+        "isEnabled": true
+      }
+    }
+  }
+}
